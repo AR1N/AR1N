@@ -31,7 +31,11 @@
     <tr valign="top">
        <td width="25%" align="center">
         <span>Ｊｑｕｅｒｙ</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Ｕｎｉａｐｐ</span><br><br><br>
+        <img height="64px" src="https://ftp.bmp.ovh/imgs/2019/11/8de0a8fa00641344.png">
       </td>
       <td width="25%" align="center">
         <span>Ｗｅｂｐａｃｋ</span><br><br><br>
@@ -40,12 +44,6 @@
       <td width="25%" align="center">
         <span>Ｇｉｔ</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
     </tr>
   </tbody>
