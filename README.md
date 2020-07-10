@@ -42,8 +42,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>小程序</span><br><br><br>
+        <img height="64px" src="https://static.easyicon.net/preview/123/1230528.gif">
       </td>
     </tr>
   </tbody>
