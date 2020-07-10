@@ -12,37 +12,37 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
+        <span>HTML5</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>CSS3</span><br><br><br>
+        <span>CSS3</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span>JavaScript</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Vue</span><br><br><br>
+        <span>Vue</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
     <tr valign="top">
        <td width="25%" align="center">
-        <span>Jquery</span><br><br><br>
+        <span>Jquery</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
       </td>
       <td width="25%" align="center">
-        <span>Uni-app</span><br><br><br>
+        <span>Uni-app</span><br><br>
         <img height="64px" src="https://ftp.bmp.ovh/imgs/2019/11/8de0a8fa00641344.png">
       </td>
       <td width="25%" align="center">
-        <span>Webpack</span><br><br><br>
+        <span>Webpack</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
       <td width="25%" align="center">
-        <span>小程序</span><br><br><br>
+        <span>小程序</span><br><br>
         <img height="64px" src="https://static.easyicon.net/preview/123/1230528.gif">
       </td>
     </tr>
