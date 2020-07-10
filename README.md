@@ -12,37 +12,37 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>ＨＴＭＬ５</span><br><br><br>
+        <span>HTML5</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>ＣＳＳ３</span><br><br><br>
+        <span>CSS3</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>ＪａｖａＳｃｒｉｐｔ</span><br><br><br>
+        <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Ｖｕｅ</span><br><br><br>
+        <span>Vue</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
     <tr valign="top">
        <td width="25%" align="center">
-        <span>Ｊｑｕｅｒｙ</span><br><br><br>
+        <span>Jquery</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
       </td>
       <td width="25%" align="center">
-        <span>Ｕｎｉａｐｐ</span><br><br><br>
+        <span>Uni-app</span><br><br><br>
         <img height="64px" src="https://ftp.bmp.ovh/imgs/2019/11/8de0a8fa00641344.png">
       </td>
       <td width="25%" align="center">
-        <span>Ｗｅｂｐａｃｋ</span><br><br><br>
+        <span>Webpack</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
       <td width="25%" align="center">
-        <span>Ｇｉｔ</span><br><br><br>
+        <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
