@@ -1,10 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Aren
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+:alien:  Front-end Engineer!
 
-:computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Guiyang 
+:round_pushpin:  Based In Guiyang 
 
-:writing_hand: you can see my blog in http://www.rkchuan.top/blog (inland:https://kcren.gitee.io/blog)
+:memo: You can see my blog in http://www.rkchuan.top/blog (:rocket:国内访问:https://kcren.gitee.io/blog)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
