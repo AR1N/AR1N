@@ -23,15 +23,15 @@
         <span>JavaScript</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Vue</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
-    <tr valign="top">
        <td width="25%" align="center">
         <span>Jquery</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Vue</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="25%" align="center">
         <span>Uni-app</span><br><br>
@@ -43,7 +43,7 @@
       </td>
       <td width="25%" align="center">
         <span>小程序</span><br><br>
-        <img height="64px" src="https://static.easyicon.net/preview/123/1230528.gif">
+        <img height="64px" src="https://ftp.bmp.ovh/imgs/2020/07/88d903252841fbc3.png">
       </td>
     </tr>
   </tbody>
