@@ -38,8 +38,8 @@
         <img height="64px" src="https://ftp.bmp.ovh/imgs/2019/11/8de0a8fa00641344.png">
       </td>
       <td width="25%" align="center">
-        <span>Webpack</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <span>Node</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/node.svg">
       </td>
       <td width="25%" align="center">
         <span>小程序</span><br><br>
