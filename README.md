@@ -21,7 +21,7 @@
       </td>
       <td width="25%" align="center">
         <span>JavaScript</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
        <td width="25%" align="center">
         <span>Jquery</span><br><br>
