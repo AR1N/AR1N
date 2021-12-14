@@ -20,7 +20,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br>
+        <span>React</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
        <td width="25%" align="center">
