@@ -4,7 +4,7 @@
 
 :round_pushpin:  Based In Guiyang 
 
-:memo: You can see my blog in http://www.rkchuan.top/blog (:rocket:国内访问:https://kcren.gitee.io/blog)
+:memo: You can see my blog in https://ar1n.github.io/blog (:rocket:国内访问:https://kcren.gitee.io/blog)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
